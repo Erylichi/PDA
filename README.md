@@ -5,7 +5,7 @@ Religion is a distinguishing element of the way many people live and make decisi
 ## Significance of the study
 Significance: The proposed project overall goal is to provide an accurate data sets for the filipino citizens. They may quickly determine what religion has the least/most number in their area, what are the religion affects that their culture, beliefs and traditions, Whenever they came from, number of members, how many churches do they have in their area. Having this kind of data sets have it's own advantage, 
 - Knowing the types of religion/s in our own community can help to understand many types of differences that are visible all around us. 
-- -Having the knowledge of what other religions belief helps to sustain social solidarity by providing social cohesion through common rituals and values. 
+- Having the knowledge of what other religions belief helps to sustain social solidarity by providing social cohesion through common rituals and values. 
 - Types of Religious Discrimination 
 - Effects of Religion on the Economy - Knowing whats the religion around in our area helps in preserving social norms and strengthening social control.
 
