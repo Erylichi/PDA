@@ -7,7 +7,7 @@ The proposed project overall goal is to provide an accurate data sets for the fi
 - To create a data sets in which lead to greater understanding  of the religion factors which can influence goverment policy.
 - To provide the means to examine the numbers of people and what religion has the least/most and beliefs they already affect our country.
 - Knowing the types of religion/s in our own community can help to understand many types of differences that are visible all around us.
--Having the knowledge of what other religions belief helps to sustain social solidarity by providing social cohesion through common rituals and values. 
--Types of Religious Discrimination 
--Effects of Religion on the Economy
+- Having the knowledge of what other religions belief helps to sustain social solidarity by providing social cohesion through common rituals and values. 
+- Types of Religious Discrimination 
+- Effects of Religion on the Economy
 - Knowing whats the religion around in our area helps in preserving social norms and strengthening social control.
