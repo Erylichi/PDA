@@ -12,9 +12,9 @@ The proposed project overall goal is to provide an accurate data sets for the fi
 - Types of Religious Discrimination 
 - Effects of Religion on the Economy
 - Knowing whats the religion around in our area helps in preserving social norms and strengthening social control.
--This study will be beneficial for:
--For students who will require the information for future projects. This will aid them in developing a thorough grasp of the many varieties of Philippine religion and how they impact social inequality.
--Future Researchers - This document will serve as a guide for future researchers interested in doing a study comparable to this one. Future researchers are allowed to improve on these projects and utilize them as a reference.
+- This study will be beneficial for:
+- For students who will require the information for future projects. This will aid them in developing a thorough grasp of the many varieties of Philippine religion and how they impact social inequality.
+- Future Researchers - This document will serve as a guide for future researchers interested in doing a study comparable to this one. Future researchers are allowed to improve on these projects and utilize them as a reference.
 ## Methods
 
 ## Expected Output
