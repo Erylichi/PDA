@@ -12,5 +12,5 @@ The proposed project overall goal is to provide an accurate data sets for the fi
 - Types of Religious Discrimination 
 - Effects of Religion on the Economy
 - Knowing whats the religion around in our area helps in preserving social norms and strengthening social control.
-##Methods
-##Expected Output
+## Methods
+## Expected Output
